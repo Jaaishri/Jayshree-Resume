@@ -1,0 +1,160 @@
+body{
+background-color: #f9f3ec;
+    }
+#header 
+{
+position: absolute;
+    top: 10px;
+bottom:10px;
+left:9px;
+    padding-left:12px;
+    /*margin-right: -10px;
+    margin-left: 18%;*/
+ width:98%;
+border: 1px solid black;
+  box-sizing: border-box;
+   background-color: #668284;
+border-radius : 5px 5px 5px 5px;
+height:110px;
+color: #ffffff;
+}
+.imagec {
+position: absolute;
+  height: 90px;
+  top:5px;
+  float:left;
+  margin-left: 5px;
+ border-color: silver;
+  border-style: solid;
+  border-width: 5px;
+   border-radius : 5px;
+   }
+#designation
+{float: left;
+bottom :5px ;
+padding-left:14px;
+padding-bottom:;
+    margin-left:9%;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;}
+
+#name {
+  float : left;
+    margin-top:;
+    padding-left:18px;
+    margin-left:8%;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+#contact
+{
+     Position: absolute;
+top:-28px;
+  bottom : 10px;
+   margin-left:75%;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+    }
+
+#email{
+     
+    Position: absolute;
+  bottom : -13px;
+   margin-left:75%;
+	font-size: 17px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+text-decoration: underline;
+}
+#URL{
+  Position: absolute;
+  bottom : 0px;
+   margin-left:75%;
+	
+        font-size: 15px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+text-decoration: underline;
+}
+
+
+a:hover {
+  font-weight: bold ;
+  
+}
+
+.right
+{
+    position: absolute;
+   padding-left:20px;
+    /*margin-right: -10px;
+    margin-left: 14%;*/
+    width:98%;
+    margin-top: 120px;
+    margin-left:3px;
+    /*margin-right: -10px;
+    margin-left: 14%;*/
+    height: auto;
+  border-radius :  5px 5px 5px 5px;
+   background-color: #E3EDD8;
+border: 2px solid #668284;
+  box-sizing: border-box;
+    }
+
+/*.left
+{
+    float: left;
+    margin-top: 60px;
+    /*margin-right: -90px;
+    height: relative;
+    width: 10%;
+    background-color: #4160E8;
+    }*/
+    
+
+h3
+{
+    text-decoration: ;
+color:;
+background-color: #668284;
+    }
+#School-name{
+font-weight: none;}
+#job-responsibilities
+{
+    padding: 1px;
+    }
+.job-title
+{
+    font-weight: bold;
+font-family: Verdana, sans-serif;
+    }
+table
+{width: 65%;
+    border: none;
+    }
+#heading
+
+
+    }
+td
+{
+    padding: 2px;
+    border: none;
+
+    }
+#course-name
+{
+    font-weight:none;
+    }
+
+#personal
+{
+    font-weight:bold;
+    }
+
+
+
+
